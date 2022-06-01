@@ -17,6 +17,7 @@
 ## ⎯= _**DESCRIPTION**_ =⎯
 
 </div>
+
 In this exercise, I aimed to do the Jasmin JS kata from [Emily Bash's repo](https://github.com/emilybache/GildedRose-Refactoring-Kata). The objectives were to :
 
 - re-factoring the gilded_rose.js code 📝

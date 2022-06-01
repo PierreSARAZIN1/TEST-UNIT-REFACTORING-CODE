@@ -39,7 +39,7 @@ Clone the repo and at the root of the folder do :
 <div align="center">
 
 ## 🚀
-## ⎯= _**UTILISATION**_ =⎯ 
+## ⎯= _**USAGE**_ =⎯ 
 
 </div>
 
